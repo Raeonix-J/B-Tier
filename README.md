@@ -150,3 +150,9 @@ but they’re **far from failures**.
 
 _Some games aren’t legends.  
 They’re learning experiences._ 😏
+
+---
+
+**<h1>Well here are the Games:-</h1>**
+
+1. [Trine 3: The Artifact of Power](https://github.com/Raeonix-J/B-Tier/tree/Trine-3-The-Artifact-of-Power)
