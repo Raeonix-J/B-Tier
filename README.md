@@ -1,152 +1,166 @@
-# 🅱️ B Tier — Good, But Uneven
+# Trine 3: The Artifacts of Power — Tier Analysis
 
-> _“Fun was had. Flaws were noticed.”_
+**Tier Placement: B Tier**
 
----
+This repository contains an honest, design-focused analysis of  
+**Trine 3: The Artifacts of Power**, evaluating where it belongs in a
+custom tier system based on gameplay quality, execution, scope,
+and overall design integrity.
 
-## 📌 What Is B Tier?
-
-**B Tier** is the land of **solid ideas with imperfect execution**.
-
-These games:
-- Are enjoyable
-- Have clear strengths
-- Also have noticeable weaknesses
-
-> B Tier games aren’t failures —  
-> they’re **almosts**.
+The goal of this repository is not to attack or praise blindly,
+but to analyze the game as developers, designers, and critical players.
 
 ---
 
-## 🧠 The Role of B Tier
+## 🎮 Game Overview
 
-B Tier is where:
-- Experiments live
-- Budget limitations show
-- Ambition exceeds polish
+**Title:** Trine 3: The Artifacts of Power  
+**Developer:** Frozenbyte  
+**Release Year:** 2015  
+**Genre:** Puzzle-Platformer / Adventure  
+**Perspective:** Full 3D (first time in the series)
 
-Without B Tier:
-- Innovation would be riskier
-- Studios wouldn’t learn
-- A Tier refinement wouldn’t happen
-
-This is the **testing ground**.
+Trine 3 attempted a major shift from the series’ traditional 2.5D
+gameplay into a fully 3D environment, aiming to evolve puzzle design
+and exploration.
 
 ---
 
-## 🚫 What B Tier Is NOT
+## 🏆 Final Tier Verdict
 
-B Tier is not:
-- Broken
-- Unplayable
-- Lazy
-- Worthless
+### **Tier B**
 
-If a game belongs here,  
-it still has **heart**.
+> A visually stunning and ambitious game that failed to fully realize
+> its vision due to reduced puzzle depth, incomplete scope, and
+> compromised execution.
 
 ---
 
-## ✅ Common B-Tier Traits
+## 📊 Tier System Reference
+
+| Tier | Meaning |
+|----|-------|
+| Tier Z | Genre-defining masterpieces |
+| Tier S | Near-perfect execution |
+| Tier A | Excellent with minor flaws |
+| **Tier B** | **Good, but compromised** |
+| Tier C | Average |
+| Tier E | Poor |
+| Tier F | Fundamentally broken |
 
 ---
 
-### 🎮 1. Inconsistent Gameplay
+## 🧠 Why Trine 3 Is NOT S Tier
 
-Some systems shine.
-Others feel undercooked.
+### 1. Ambition vs Execution
 
-- One great mechanic
-- One annoying mechanic
-- One forgotten mechanic
+**What it aimed for:**
+- Full 3D puzzles
+- Physics-driven exploration
+- Retaining Trine’s cooperative identity
 
-The experience varies moment to moment.
+**What actually happened:**
+- Simpler puzzles
+- Reduced mechanical depth
+- Limited exploration freedom
 
----
-
-### 🎨 2. Partial Artistic Identity
-
-- Strong concepts
-- Uneven execution
-- Moments of beauty surrounded by blandness
-
-You remember **parts**, not the whole.
+The ambition was S Tier.  
+The execution was not.
 
 ---
 
-### 🧩 3. Design Friction
+### 2. Gameplay & Mechanics
 
-- Unclear objectives
-- Difficulty spikes
-- Clunky UI
-- Awkward pacing
+| Aspect | Evaluation |
+|-----|-----------|
+Wizard physics | Weakened |
+Knight combat | Simplified |
+Thief traversal | Still enjoyable |
+Puzzle complexity | Reduced |
+Co-op synergy | Less impactful |
 
-Not deal-breakers —  
-just speed bumps.
-
----
-
-### 🔁 4. Replayability Depends on Tolerance
-
-You might replay it if:
-- You really liked one system
-- You’re forgiving of flaws
-
-Most players finish it once and move on.
+The transition to 3D reduced the layered puzzle-solving that defined
+earlier Trine games.
 
 ---
 
-## ⚠️ Typical B-Tier Limitations
+### 3. Level Design & Pacing
 
-| Issue | Impact |
-|----|------|
-| Rough polish | Breaks immersion |
-| Conflicting systems | Dilutes focus |
-| Inconsistent quality | Hurts momentum |
-| Missed potential | “This could’ve been great” |
+- Levels are noticeably shorter
+- Fewer “aha” puzzle moments
+- Exploration feels constrained despite 3D space
 
-B Tier is the home of that sentence.
+The game looks large but plays small.
 
 ---
 
-## 📊 Tier Comparison
+### 4. Story & Scope Completion (Major Issue)
 
+- Narrative ends abruptly
+- Key story threads remain unresolved
+- The game does not feel fully finished
 
----
+This was later acknowledged by the developers themselves.
 
-## 🧠 How You Recognize a B-Tier Game
-
-You say things like:
-- “It’s actually pretty fun”
-- “It has issues, but…”
-- “I liked parts of it”
-- “Worth it on sale”
-
-You don’t regret playing it —  
-you just don’t defend it passionately.
+An incomplete experience cannot be placed in S Tier.
 
 ---
 
-## 🏁 Final Definition
+## 🎨 Where Trine 3 Excels (S-Tier Strengths)
 
-> **B Tier is where good ideas learn hard lessons.**
+- Art direction
+- Lighting and visual effects
+- Soundtrack and atmosphere
+- World aesthetics
 
-These games walk  
-so better games can run.
-
----
-
-## ⭐ TL;DR
-
-B-Tier games:
-- Are enjoyable
-- Are flawed
-- Are honest
-
-They’re not classics —  
-but they’re **far from failures**.
+If evaluated purely on presentation, Trine 3 would rank extremely high.
+However, visuals cannot fully compensate for gameplay shortcomings.
 
 ---
 
-_Some games aren’t legends.  
-They’re learning experiences._ 😏
+## ❤️ Why Many Players Feel It’s S Tier (And That’s Valid)
+
+- Strong emotional impact
+- Beautiful environments
+- Nostalgia for the Trine universe
+- Respect for its ambition
+
+Emotionally: S Tier  
+Structurally: B Tier  
+
+Both perspectives can coexist.
+
+---
+
+## 🧩 Lessons for Game Designers
+
+Trine 3 is a valuable case study for developers:
+
+- Major dimensional shifts require deep redesign, not adaptation
+- Visual upgrades do not guarantee deeper gameplay
+- Scope management is critical
+- A finished experience matters as much as ambition
+
+For aspiring game developers, this game offers more learning value
+than many flawless titles.
+
+---
+
+## 📌 Conclusion
+
+**Trine 3: The Artifacts of Power** is not a failure.
+
+It is:
+- A bold experiment
+- A beautiful world
+- A compromised execution
+- A solid **Tier B** experience
+
+This analysis aims to respect the game while remaining honest.
+
+---
+
+## 📜 Disclaimer
+
+This repository is a fan-made analytical work.
+All game rights belong to their respective owners.
