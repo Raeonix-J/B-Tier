@@ -1,4 +1,4 @@
-# Trine 3: The Artifacts of Power — Tier Analysis
+# Trine 3: The Artifacts of Power
 
 **Tier Placement: B Tier**
 
