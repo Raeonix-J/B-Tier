@@ -43,7 +43,7 @@ and exploration.
 | Tier Z | Genre-defining masterpieces |
 | Tier S | Near-perfect execution |
 | Tier A | Excellent with minor flaws |
-| **Tier B** | **Good, but compromised** |
+| **<h2><i>Tier B</i></h2>** | **<h2><i>Good, but compromised</i></h2>** |
 | Tier C | Average |
 | Tier E | Poor |
 | Tier F | Fundamentally broken |
