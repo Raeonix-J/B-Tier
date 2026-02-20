@@ -1,158 +1,135 @@
-# 🅱️ B Tier — Good, But Uneven
+# Everybody's Gone to the Rapture — Tier Analysis
 
-> _“Fun was had. Flaws were noticed.”_
+**Tier Placement: Tier B**
 
----
+This repository contains an interaction-focused analysis of
+Everybody's Gone to the Rapture.
 
-## 📌 What Is B Tier?
-
-**B Tier** is the land of **solid ideas with imperfect execution**.
-
-These games:
-- Are enjoyable
-- Have clear strengths
-- Also have noticeable weaknesses
-
-> B Tier games aren’t failures —  
-> they’re **almosts**.
+The evaluation is based on gameplay agency, mechanical depth,
+player engagement, and systemic evolution — not purely on artistic
+or atmospheric merit.
 
 ---
 
-## 🧠 The Role of B Tier
+## 🎮 Game Overview
 
-B Tier is where:
-- Experiments live
-- Budget limitations show
-- Ambition exceeds polish
+**Title:** Everybody's Gone to the Rapture  
+**Developer:** The Chinese Room  
+**Release Year:** 2015  
+**Genre:** Narrative Exploration  
 
-Without B Tier:
-- Innovation would be riskier
-- Studios wouldn’t learn
-- A Tier refinement wouldn’t happen
-
-This is the **testing ground**.
+The game presents a story-driven experience set in an abandoned
+English village, where players uncover events through environmental
+storytelling and audio-visual memory sequences.
 
 ---
 
-## 🚫 What B Tier Is NOT
+## 🏆 Final Tier Verdict
 
-B Tier is not:
-- Broken
-- Unplayable
-- Lazy
-- Worthless
+### **Tier B**
 
-If a game belongs here,  
-it still has **heart**.
+> A beautifully crafted atmospheric experience with minimal mechanical
+> interaction and limited gameplay evolution.
 
 ---
 
-## ✅ Common B-Tier Traits
+## 📊 Tier System Reference
+
+| Tier | Meaning |
+|------|--------|
+| Tier Z | Genre-defining masterpieces |
+| Tier S | Near-perfect execution with layered engagement |
+| Tier A | Excellent execution with strong interaction |
+| **Tier B** | Good experience but mechanically limited |
+| Tier C | Average |
+| Tier E | Poor |
+| Tier F | Fundamentally broken |
 
 ---
 
-### 🎮 1. Inconsistent Gameplay
+## 🧠 Evaluation Philosophy
 
-Some systems shine.
-Others feel undercooked.
+This analysis prioritizes:
 
-- One great mechanic
-- One annoying mechanic
-- One forgotten mechanic
+- Player agency
+- Mechanical interaction
+- Systemic depth
+- Gameplay evolution
+- Engagement through action
 
-The experience varies moment to moment.
-
----
-
-### 🎨 2. Partial Artistic Identity
-
-- Strong concepts
-- Uneven execution
-- Moments of beauty surrounded by blandness
-
-You remember **parts**, not the whole.
+Atmosphere, music, and visual quality are considered,
+but do not override gameplay limitations.
 
 ---
 
-### 🧩 3. Design Friction
+## 🚶 Core Gameplay Breakdown
 
-- Unclear objectives
-- Difficulty spikes
-- Clunky UI
-- Awkward pacing
+Primary Player Actions:
+- Walking
+- Environmental observation
+- Triggering memory sequences
+- Listening to dialogue
 
-Not deal-breakers —  
-just speed bumps.
+Absent Systems:
+- No failure state
+- No skill progression
+- No mechanical challenge
+- No meaningful branching
+- No gameplay escalation
 
----
-
-### 🔁 4. Replayability Depends on Tolerance
-
-You might replay it if:
-- You really liked one system
-- You’re forgiving of flaws
-
-Most players finish it once and move on.
+The experience remains mechanically static from beginning to end.
 
 ---
 
-## ⚠️ Typical B-Tier Limitations
+## 🌄 Strengths
 
-| Issue | Impact |
-|----|------|
-| Rough polish | Breaks immersion |
-| Conflicting systems | Dilutes focus |
-| Inconsistent quality | Hurts momentum |
-| Missed potential | “This could’ve been great” |
+- Exceptional environmental design
+- Strong audio direction
+- Emotional storytelling
+- Cohesive thematic execution
+- Controlled pacing
 
-B Tier is the home of that sentence.
-
----
-
-## 📊 Tier Comparison
-
+The game succeeds artistically and atmospherically.
 
 ---
 
-## 🧠 How You Recognize a B-Tier Game
+## ⚠️ Limitations (From a Gameplay Perspective)
 
-You say things like:
-- “It’s actually pretty fun”
-- “It has issues, but…”
-- “I liked parts of it”
-- “Worth it on sale”
+- Minimal player agency
+- No mechanical evolution
+- Limited replay value
+- Interaction primarily observational
 
-You don’t regret playing it —  
-you just don’t defend it passionately.
-
----
-
-## 🏁 Final Definition
-
-> **B Tier is where good ideas learn hard lessons.**
-
-These games walk  
-so better games can run.
+While intentional, these constraints cap the experience
+within an interaction-weighted tier system.
 
 ---
 
-## ⭐ TL;DR
+## 🎯 Why It Is Not Tier A
 
-B-Tier games:
-- Are enjoyable
-- Are flawed
-- Are honest
+Tier A requires strong engagement through meaningful interaction.
+Rapture prioritizes passive discovery over active participation.
 
-They’re not classics —  
-but they’re **far from failures**.
+The experience is immersive,
+but not mechanically engaging.
 
 ---
 
-_Some games aren’t legends.  
-They’re learning experiences._ 😏
+## 📌 Conclusion
+
+Everybody's Gone to the Rapture is:
+
+- Atmospherically powerful
+- Emotionally resonant
+- Artistically cohesive
+- Mechanically limited
+
+Under an interaction-focused evaluation framework,
+it earns its place as a **Tier B** title.
 
 ---
 
-**<h1>Well here are the Games:-</h1>**
+## 📜 Disclaimer
 
-1. [Trine 3: The Artifact of Power](https://github.com/Raeonix-J/B-Tier/tree/Trine-3-The-Artifact-of-Power)
+This repository is a fan-made analytical project.
+All rights belong to their respective owners.
