@@ -40,7 +40,7 @@ storytelling and audio-visual memory sequences.
 | Tier Z | Genre-defining masterpieces |
 | Tier S | Near-perfect execution with layered engagement |
 | Tier A | Excellent execution with strong interaction |
-| **Tier B** | Good experience but mechanically limited |
+| **<h2>Tier B</h2>** | **<h2>Good experience but mechanically limited</h2>** |
 | Tier C | Average |
 | Tier E | Poor |
 | Tier F | Fundamentally broken |
