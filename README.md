@@ -155,5 +155,4 @@ They’re learning experiences._ 😏
 
 **<h1>Well here are the Games:-</h1>**
 
-1. [Trine 3: The Artifact of Power](https://github.com/Raeonix-J/B-Tier/tree/Trine-3-The-Artifact-of-Power)
-2. [Everybody's Gone to the Rapture](https://github.com/Raeonix-J/B-Tier/blob/Everybody's-Gone-to-the-Rapture)
+
