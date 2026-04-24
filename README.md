@@ -1,5 +1,4 @@
-# Mirror's Edge Catalyst – Tier List Review
-
+# Mirror's Edge Catalyst
 ## 🎮 Game
 
 **Mirror's Edge Catalyst (2016)**
