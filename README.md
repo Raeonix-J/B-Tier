@@ -1,158 +1,90 @@
-# 🅱️ B Tier — Good, But Uneven
+# Mirror's Edge Catalyst – Tier List Review
 
-> _“Fun was had. Flaws were noticed.”_
+## 🎮 Game
 
----
+**Mirror's Edge Catalyst (2016)**
 
-## 📌 What Is B Tier?
+## 🏆 Tier Placement
 
-**B Tier** is the land of **solid ideas with imperfect execution**.
-
-These games:
-- Are enjoyable
-- Have clear strengths
-- Also have noticeable weaknesses
-
-> B Tier games aren’t failures —  
-> they’re **almosts**.
+**B Tier**
 
 ---
 
-## 🧠 The Role of B Tier
+## 📌 Overview
 
-B Tier is where:
-- Experiments live
-- Budget limitations show
-- Ambition exceeds polish
-
-Without B Tier:
-- Innovation would be riskier
-- Studios wouldn’t learn
-- A Tier refinement wouldn’t happen
-
-This is the **testing ground**.
+This repository contains a structured tier-list evaluation of *Mirror's Edge Catalyst*, analyzing its gameplay, design, story, and overall impact.
 
 ---
 
-## 🚫 What B Tier Is NOT
+## 🟨 Final Verdict: B Tier
 
-B Tier is not:
-- Broken
-- Unplayable
-- Lazy
-- Worthless
-
-If a game belongs here,  
-it still has **heart**.
+*Mirror's Edge Catalyst* sits in the **B Tier** — a good game with strong core mechanics, but held back by several design flaws.
 
 ---
 
-## ✅ Common B-Tier Traits
+## 🟢 Strengths
+
+### 1. Parkour & Movement (S Tier)
+
+* Extremely smooth and satisfying traversal mechanics
+* Strong sense of speed and flow
+* Core gameplay is highly immersive
+
+### 2. Visual Design (A–S Tier)
+
+* Clean, minimalist futuristic aesthetic
+* Excellent use of color (especially red navigation cues)
+* The city of Glass looks stylish and unique
 
 ---
 
-### 🎮 1. Inconsistent Gameplay
+## 🟡 Weaknesses
 
-Some systems shine.
-Others feel undercooked.
+### 1. Open World Design (C–B Tier)
 
-- One great mechanic
-- One annoying mechanic
-- One forgotten mechanic
+* World feels repetitive and somewhat empty
+* Missions reuse similar routes
+* Less impactful than linear level design
 
-The experience varies moment to moment.
+### 2. Story & Characters (C Tier)
 
----
+* Weak narrative engagement
+* Underdeveloped characters
+* Lacks emotional depth
 
-### 🎨 2. Partial Artistic Identity
+### 3. Combat System (C–D Tier)
 
-- Strong concepts
-- Uneven execution
-- Moments of beauty surrounded by blandness
-
-You remember **parts**, not the whole.
-
----
-
-### 🧩 3. Design Friction
-
-- Unclear objectives
-- Difficulty spikes
-- Clunky UI
-- Awkward pacing
-
-Not deal-breakers —  
-just speed bumps.
+* Combat interrupts gameplay flow
+* Feels unnecessary compared to parkour focus
+* Best gameplay moments occur when avoiding combat
 
 ---
 
-### 🔁 4. Replayability Depends on Tolerance
+## 🔴 Missed Potential
 
-You might replay it if:
-- You really liked one system
-- You’re forgiving of flaws
+The game had the potential to reach **S Tier**, but suffers due to:
 
-Most players finish it once and move on.
-
----
-
-## ⚠️ Typical B-Tier Limitations
-
-| Issue | Impact |
-|----|------|
-| Rough polish | Breaks immersion |
-| Conflicting systems | Dilutes focus |
-| Inconsistent quality | Hurts momentum |
-| Missed potential | “This could’ve been great” |
-
-B Tier is the home of that sentence.
+* Repetitive mission design
+* Weak storytelling
+* Overemphasis on open-world structure
 
 ---
 
-## 📊 Tier Comparison
+## 🎯 Conclusion
 
-
----
-
-## 🧠 How You Recognize a B-Tier Game
-
-You say things like:
-- “It’s actually pretty fun”
-- “It has issues, but…”
-- “I liked parts of it”
-- “Worth it on sale”
-
-You don’t regret playing it —  
-you just don’t defend it passionately.
+*Mirror's Edge Catalyst* is a visually striking and mechanically satisfying game that falls short of greatness. It is best experienced by players who enjoy movement-based gameplay rather than narrative depth.
 
 ---
 
-## 🏁 Final Definition
+## 📊 Tier Summary
 
-> **B Tier is where good ideas learn hard lessons.**
-
-These games walk  
-so better games can run.
-
----
-
-## ⭐ TL;DR
-
-B-Tier games:
-- Are enjoyable
-- Are flawed
-- Are honest
-
-They’re not classics —  
-but they’re **far from failures**.
+| Category    | Rating |
+| ----------- | ------ |
+| Movement    | S      |
+| Visuals     | A–S    |
+| Open World  | B–C    |
+| Story       | C      |
+| Combat      | C–D    |
+| **Overall** | **B**  |
 
 ---
-
-_Some games aren’t legends.  
-They’re learning experiences._ 😏
-
----
-
-**<h1>Well here are the Games:-</h1>**
-
-
